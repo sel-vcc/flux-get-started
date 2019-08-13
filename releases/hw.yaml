@@ -16,4 +16,4 @@ spec:
   values:
     image:
       repository: slarkin/hw
-      tag: 0.2.0-b5be1e9-20190813-1235
+      tag: 0.2.0-b5be1e9-20190813-1250
